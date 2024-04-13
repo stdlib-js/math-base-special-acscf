@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-acscf",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Compute the arccosecant of a single-precision floating-point number.",
   "license": "Apache-2.0",
   "author": {
@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "@stdlib/math-base-napi-unary": "^0.2.1",
-    "@stdlib/math-base-special-asinf": "github:stdlib-js/math-base-special-asinf#main",
+    "@stdlib/math-base-special-asinf": "^0.1.0",
     "@stdlib/number-float64-base-to-float32": "^0.2.1",
     "@stdlib/utils-library-manifest": "^0.2.1"
   },
