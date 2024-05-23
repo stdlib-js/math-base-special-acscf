@@ -200,6 +200,15 @@ int main( void ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/math-base/special/acsc`][@stdlib/math/base/special/acsc]</span><span class="delimiter">: </span><span class="description">compute the arccosecant of a number.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/acsch`][@stdlib/math/base/special/acsch]</span><span class="delimiter">: </span><span class="description">compute the hyperbolic arccosecant of a number.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/asecf`][@stdlib/math/base/special/asecf]</span><span class="delimiter">: </span><span class="description">compute the inverse (arc) secant of a single-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/asinf`][@stdlib/math/base/special/asinf]</span><span class="delimiter">: </span><span class="description">compute the arcsine of a single-precision floating-point number.</span>
+
 </section>
 
 <!-- /.related -->
@@ -243,8 +252,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/math-base-special-acscf.svg
 [npm-url]: https://npmjs.org/package/@stdlib/math-base-special-acscf
 
-[test-image]: https://github.com/stdlib-js/math-base-special-acscf/actions/workflows/test.yml/badge.svg?branch=v0.1.0
-[test-url]: https://github.com/stdlib-js/math-base-special-acscf/actions/workflows/test.yml?query=branch:v0.1.0
+[test-image]: https://github.com/stdlib-js/math-base-special-acscf/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/math-base-special-acscf/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/math-base-special-acscf/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/math-base-special-acscf?branch=main
@@ -277,6 +286,18 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-acscf/main/LICENSE
 
 [arccosecant]: https://en.wikipedia.org/wiki/Inverse_trigonometric_functions
+
+<!-- <related-links> -->
+
+[@stdlib/math/base/special/acsc]: https://github.com/stdlib-js/math-base-special-acsc
+
+[@stdlib/math/base/special/acsch]: https://github.com/stdlib-js/math-base-special-acsch
+
+[@stdlib/math/base/special/asecf]: https://github.com/stdlib-js/math-base-special-asecf
+
+[@stdlib/math/base/special/asinf]: https://github.com/stdlib-js/math-base-special-asinf
+
+<!-- </related-links> -->
 
 </section>
 
