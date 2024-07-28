@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import acscf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acscf@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-acscf/tags). For example,
+
+```javascript
 import acscf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acscf@v0.1.1-deno/mod.js';
 ```
 
@@ -79,7 +84,7 @@ var v = acscf( 0.5 );
 
 ```javascript
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@deno/mod.js';
-import acscf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acscf@v0.1.1-deno/mod.js';
+import acscf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acscf@deno/mod.js';
 
 var x = linspace( 1.1, 5.1, 100 );
 
