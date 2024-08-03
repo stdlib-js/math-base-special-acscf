@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-08-01)
+## Unreleased (2024-08-03)
 
 <section class="commits">
 
@@ -12,7 +12,7 @@
 
 <details>
 
--   [`22c4d29`](https://github.com/stdlib-js/stdlib/commit/22c4d29898e2b5bb4cb071a6b7f62536027eaf28) - **docs:** remove blank line _(by Athan Reines)_
+-   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
 
 </details>
 
@@ -40,7 +40,19 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ## 0.1.1 (2024-07-28)
 
-No changes reported for this release.
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`f626b3d`](https://github.com/stdlib-js/stdlib/commit/f626b3d45c5fc4b55ff08dc53da094173a719732) - **docs:** update related packages sections [(#2255)](https://github.com/stdlib-js/stdlib/pull/2255) _(by stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
 
 </section>
 
@@ -50,7 +62,58 @@ No changes reported for this release.
 
 ## 0.1.0 (2024-04-13)
 
-No changes reported for this release.
+<section class="features">
+
+### Features
+
+-   [`bcf0e37`](https://github.com/stdlib-js/stdlib/commit/bcf0e3709a20f304c024838e51fba1e99293517f) - add `math/base/special/acscf` [(#2111)](https://github.com/stdlib-js/stdlib/pull/2111)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#2109](https://github.com/stdlib-js/stdlib/issues/2109)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`41d41e9`](https://github.com/stdlib-js/stdlib/commit/41d41e959b4eaad3c631e6898e3144a4015a5458) - **test:** include trailing newlines in Julia-generated JSON fixtures _(by Philipp Burckhardt)_
+-   [`9ed7d0e`](https://github.com/stdlib-js/stdlib/commit/9ed7d0e7d57edb5ad0dfb65c944bed87d475cbf3) - **chore:** add missing trailing newlines _(by Philipp Burckhardt)_
+-   [`e279ea5`](https://github.com/stdlib-js/stdlib/commit/e279ea524d22f2d534c691962a4d7fee9695c8fe) - **chore:** update package meta data _(by stdlib-bot, Athan Reines)_
+-   [`bcf0e37`](https://github.com/stdlib-js/stdlib/commit/bcf0e3709a20f304c024838e51fba1e99293517f) - **feat:** add `math/base/special/acscf` [(#2111)](https://github.com/stdlib-js/stdlib/pull/2111) _(by Gunj Joshi, Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 3 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Gunj Joshi
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
