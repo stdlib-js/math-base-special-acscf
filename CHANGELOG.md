@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-30)
+## Unreleased (2026-08-27)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`ac0d55f`](https://github.com/stdlib-js/stdlib/commit/ac0d55f57c0eba355827ab600b2b6a6081f04d61) - **docs:** add equations [(#14684)](https://github.com/stdlib-js/stdlib/pull/14684) _(by Karan Anand)_
 -   [`2c38f7c`](https://github.com/stdlib-js/stdlib/commit/2c38f7c3549842ec429c2826ab4507bb80bb606d) - **test:** migrate `math/base/special/acscf` to ULP difference testing [(#13753)](https://github.com/stdlib-js/stdlib/pull/13753) _(by Arjan-P)_
 -   [`9229dd7`](https://github.com/stdlib-js/stdlib/commit/9229dd78fa82c5f863dbc51a9588314d53a97c44) - **bench:** refactor to use string interpolation in `math/base/special` [(#11386)](https://github.com/stdlib-js/stdlib/pull/11386) _(by Karan Anand)_
 
